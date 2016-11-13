@@ -1,1 +1,1 @@
-Labyrint is supposed to be an android phone game that controls a ball through a labyrint, using the phones accellerometer to guide the ball.
+Labyrint is supposed to be an android phone game that controls a ball through a labyrint, using the phones accellerometer to guide the it.
